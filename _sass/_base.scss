@@ -15,10 +15,10 @@ $base-font-family:              "Reddit Mono", monospace;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
-$nav-height:                    56px;
+$nav-height:                    65px;
 
 /* portfolio tinkering */
-$img_spacing: 5px; 
+$img_spacing: 5px;
 $img_height: 275px;
 $caption_font_size: 12px;
 $caption_color: #aaa;
@@ -30,14 +30,15 @@ $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
+$redpink: #f65269;
 
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
+$text-color:     #dcdcdc;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   $redpink;
 
 
 /************************************************************/
@@ -195,8 +196,8 @@ pre {
  */ 
 
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
+    max-width: -webkit-calc(900px - (#{$horizontal-spacing-unit} * 2));
+    max-width:         calc(900px - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
@@ -204,8 +205,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit}));
-        max-width:         calc(800px - (#{$horizontal-spacing-unit}));
+        max-width: -webkit-calc(900px - (#{$horizontal-spacing-unit}));
+        max-width:         calc(900px - (#{$horizontal-spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }

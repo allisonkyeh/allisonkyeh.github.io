@@ -5,12 +5,15 @@ permalink: /about/
 ---
 
 <img class="col one left profile_pic" src="/images/2892ad7e-c94a-4109-8038-565dae3a55eb_rw_12007fa7.png">
-Hello! I am a recent grad from the Brown|RISD Dual Degree Program, with degrees in Computer Science and Animation.
 
-I love crafting immersive, interactive experiences, finding new ways to tell stories that'll tug at your heartstrings and play games with your brain.  I strive for a cinematic and playful balance, exploring what film and game mediums can do for each other.\
-Besides in studio, you can find me at the kendo dojo, dance studio, or at the ice rink!
+<br>
 
-I am currently looking for full time opportunities- please reach out to me at the email below!\
+Hello! My name is Allison Yeh. I am currently a technical artist at <a href="https://tenderclaws.com/">Tender Claws</a>, with the ability to jump from art to code and everything in between.
+
+I love crafting immersive, interactive experiences, finding new ways to tell stories that'll tug at your heartstrings and play games with your brain. I have tons of fun experimenting with stylized graphics, shaders, VFX, and polishing every pixel in engine!
+
+Feel free to reach out to me at the email below!
+
 <span style="color:#f65269">allisonkyeh@gmail.com</span>
 <!-- Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. -->
 

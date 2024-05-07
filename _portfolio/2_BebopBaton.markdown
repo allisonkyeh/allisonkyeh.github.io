@@ -2,54 +2,47 @@
 layout: post
 title: Bebop Baton
 description:
-img: /documentation/2024_bebopbaton/v2/ShortClipsGifs/attackcombo3.gif
+img: /documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/attackcombo3.gif
+img_hover: /documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/title_loop.gif
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+A jazz rhythm game where the conductor has a funky showdown against the snazzy, snappy shadowmen!
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+Developed in a week with thuleanx for Rhythm Jam 2024, and rated 1st out of 70+ entries. I created all the art, including character models, animations, UI, environment, and VFX.
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+You can play Bebop Baton on itch.io <a href="https://ayucinna.itch.io/bebop-baton">here!</a>
 
+<!-- <div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2024_bebopbaton/cover_frontalvignette_MAIN.png"/>
+</div> -->
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	<img class="col three" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/attackcombo4_enemydeath.gif"/>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+<div class="col three caption">
+	Parry the shadowmen to break their shield and stun them, then attack to defeat them!
+</div>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/enemyattack2.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/enemystun_shieldup2.gif"/>
+</div>
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/documentation/2024_bebopbaton/characters_pose_gray.png"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2024_bebopbaton/char_ref_conductor_gray.png"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2024_bebopbaton/char_ref_shadowman_gray.png"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Final character models in Maya and concepts/turnarounds.
 </div>
 
+<div class="img_row">
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/title_press.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_update/title_after_click.png"/>
+</div>
+<div class="col three caption">
+	Title screen and stage environment.
+</div>
 
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>

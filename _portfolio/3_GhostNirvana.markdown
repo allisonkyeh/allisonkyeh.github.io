@@ -3,44 +3,46 @@ layout: post
 title: Ghost Nirvana
 description:
 img: /documentation/2023_ghostnirvana/v2/ShortClipsGifs/reload.gif
+img_hover: /documentation/2023_ghostnirvana/v2/ShortClipsGifs/title_button_loop.gif
 ---
 <!-- redirect: /path-of-raindiance.html -->
 
+A 3D bullet heaven game where you play as a part-timer tracking down missing appliances that have been possessed by ghosts, and exorcising them with your salt gun!
 
+Developed with thuleanx for A Game By Its Cover 2023, a 6 week game jam. The game was inspired by <a href="https://famicase.com/23/softs/024.html">this famicase design</a> created by 蒼月＠かのん. I created all the art, including character models and animations, UI, environment, and VFX.
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+You can play Ghost Nirvana on itch.io <a href="https://thuleanx.itch.io/ghost-nirvana">here!</a>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/v2/ShortClipsGifs/many_enemies.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/v2/ShortClipsGifs/levelup.gif"/>
 </div>
 
+The VFX went through a few iterations to ensure gameplay clarity, prevent clutter, and keep the salt and ghost theming. A total of 23 different items were added to the upgrade shop, with varied color and shape language to differentiate them quickly.
 
-<br/><br/><br/>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/conceptMiyu_compilation.png"/>
+</div>
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/anim_turnaroundplayblast.gif"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/anim_idleplayblast_crop.gif"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/anim_walkforwardplayblast2.gif"/>
+</div>
 
+Miyu concepts, adapted from 蒼月＠かのん's original design to fit the game's style- and model, rig, and some animations. Secondary elements like the ears and glowsticks were dynamically animated in engine.
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+<div class="img_row">
+	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/conceptAppliances.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/appliancesplayblast.gif"/>
+</div>
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+Appliance concepts, models, and animations. My favorites are the stove and fan!
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/envDesign_2.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/uiDesign_3.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/uiDesign_4.jpg"/>
+</div>
+
+Environment and UI concepts. I wanted to lean into the ghostly theme and made the HP points into happy and frightened faces ◡̈
+

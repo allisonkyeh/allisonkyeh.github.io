@@ -3,6 +3,7 @@ layout: post
 title: Pyromaniacs
 description:
 img: documentation/2021_baz/baz_turnaround_crop.gif
+img_hover: documentation/2021_baz/titlePyro.jpg
 ---
 
 In a city of monsters, two gremlin outcasts form a partnership of thievery. The daring strength of one and the caring empathy of the other clash and support each other as they try to survive.
@@ -10,8 +11,8 @@ In a city of monsters, two gremlin outcasts form a partnership of thievery. The 
 Pyromaniacs is my interactive story pitch, starring Baz and Yafu.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/documentation/2021_baz/baz_concept.png" alt=""/>
-	<img class="col one" src="{{ site.baseurl }}/documentation/2021_baz/baz_turnaround.gif" alt=""/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/baz_concept.png" alt=""/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/baz_turnaround.gif" alt=""/>
 </div>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2021_baz/baz_modelrig.png" alt="" title="example image"/>
@@ -36,8 +37,8 @@ Character splash art for the pitch deck.
 </div>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/documentation/2021_baz/props-bugs.png" alt=""/>
-	<img class="col one" src="{{ site.baseurl }}/documentation/2021_baz/colorscript.png" alt=""/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/props-bugs.png" alt=""/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/colorscript.png" alt=""/>
 </div>
 <div class="col three caption">
 World building concept art and color script.

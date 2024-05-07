@@ -31,11 +31,9 @@ title: Allison Yeh
         <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
-        {% endif %}    
+        {% endif %}
         <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
+            <img class="thumbnail" src="{{ project.img_hover }}"/>
         </span>
         </a>
     </div>

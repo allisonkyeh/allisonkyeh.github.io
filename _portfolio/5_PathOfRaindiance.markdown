@@ -3,15 +3,18 @@ layout: post
 title: Path of Raindiance
 description:
 img: documentation/2020_thunderstorm/gameplaymontage_small.gif
+img_hover: documentation/2020_thunderstorm/titlePoR.jpg
 ---
 
-<!-- insert embedded video -->
+{% include video id="495805138" provider="vimeo" %}
 
 An experiment with creating immersive, stylized environments. A player may walk through the interactive space as the storm grows and ebbs in stages. Inspired by my enjoyment of thunderstorms in real life and throughout games I love.
 
+A solo, semester-long project using Unity, completed in 2020.
+
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/documentation/2020_thunderstorm/concept_env.png">
-	<img class="col one" src="{{ site.baseurl }}/documentation/2020_thunderstorm/concept_sketches.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/concept_env.png">
+	<img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/concept_sketches.png"/>
 </div>
 
 <div class="img_row">
@@ -24,4 +27,5 @@ An experiment with creating immersive, stylized environments. A player may walk 
 	Concept art and progress screenshots for look development and color customization tests.
 </div>
 
+<br><br><br>
 Title is a play on Fire Emblem's Path of Radiance.

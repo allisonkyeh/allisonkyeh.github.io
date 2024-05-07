@@ -2,54 +2,44 @@
 layout: post
 title: Mutual Consciousness
 description:
-img: 
+img: /documentation/2022_dp/dp-white1.gif
+img_hover: /documentation/2022_dp/dp-title.gif
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+One of the things I admire the most about video games is the interactive and narrative possibility. Audiences can personally live through and have control over what happens.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: {{ site.baseurl }}/img/12.jpg
-	---
-
+The core ‘feeling’ of my RISD degree project is the feeling of mind fog- a numb, hazy jumble of thoughts. You exist in this void of a mindspace, filled with subtle static instead of true black.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_dp/dp-spawn.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_dp/dp-white2.gif"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_dp/dp-purple.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_dp/dp-yellow.gif"/>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+The idea was centered around you finding these memories, safe spaces, imaginary worlds, with small wisps to guide you, to recover your shape and therefore yourself.
 
+These hidden spaces randomly spawned around you, revealed when you walk near, and disappeared when you left. Players would each have their own personal experience of what spaces they got to visit.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	<img class="col one" src="{{ site.baseurl }}/documentation/2022_dp/dp-corrupting1.gif"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2022_dp/dp-corrupting2.gif"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2022_dp/dp-death.gif"/>
 </div>
 
+I added a corruption mechanic where if you wandered alone too long, you gradually began to distort and lose your shape. If you couldn’t find any more of these spaces, you’d lose your shape, curl up, and become overwhelmed by the darkness.
 
-<br/><br/><br/>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2022_dp/dp-wisps.gif"/>
+</div>
 
+But one other point to visit these spaces was to visit these wisps- other presences in your head that represent the relationships in your life, who support you and remind you that you have more than one chance to get up and try again.
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+I feel that I am very much a kaleidoscope of the people close to me- their influences become layers that transform and inform who I am.
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2022_dp/dp-end.gif"/>
+</div>
+

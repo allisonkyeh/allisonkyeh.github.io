@@ -11,11 +11,11 @@ dl, dd, ol, ul, figure {
 
 
 /** Variables **********************************************/
-$base-font-family:              "Reddit Mono", monospace;
+$base-font-family:              "Nunito Sans", monospace;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
-$nav-height:                    65px;
+$nav-height:                    70px;
 
 /* portfolio tinkering */
 $img_spacing: 5px;
@@ -54,6 +54,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    text-align: center;
 }
 
 
@@ -76,8 +77,8 @@ hr{
     /* Inset, by Dan Eden */
     border: 0;
     height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-top: 1px solid $theme-color;
+    // border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 
 }
 
@@ -196,8 +197,8 @@ pre {
  */ 
 
 .wrapper {
-    max-width: -webkit-calc(900px - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(900px - (#{$horizontal-spacing-unit} * 2));
+    max-width: -webkit-calc(950px - (#{$horizontal-spacing-unit} * 2));
+    max-width:         calc(950px - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
@@ -205,8 +206,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(900px - (#{$horizontal-spacing-unit}));
-        max-width:         calc(900px - (#{$horizontal-spacing-unit}));
+        max-width: -webkit-calc(950px - (#{$horizontal-spacing-unit}));
+        max-width:         calc(950px - (#{$horizontal-spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }

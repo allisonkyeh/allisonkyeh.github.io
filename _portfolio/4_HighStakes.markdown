@@ -33,23 +33,23 @@ The mockup I made was especially informative to show the team how to approach th
 	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screencaptures/gif3AN.gif"/>
 </div>
 
-Since our puzzle game only depended on 4 angles, I could compose the environment dressing specifically to these 4 views. My main focuses were on integrating the grid, filling out the background for the feel of an extended world, and creating a framed composition for each perspective.
+Since our puzzle game only had 4 angles, I could compose the environment dressing specifically to these 4 views. My main focuses were on integrating the grid, filling out the background for the feel of an extended world, and creating a framed composition for each perspective.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/01_01.png"/>
-	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_02.png"/>
-	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/03_01.png"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/01_01.PNG"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_02.PNG"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/03_01.PNG"/>
 </div>
 
-For the framing, many trees were wildly tilted and scaled, and I placed floating bushes and trees to create a vignette effect that increased UI readability.
+For the framing I placed floating bushes and tilted trees to create a vignette effect that increased UI readability.
 
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/01_dir_0_UI.png"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_dir_90_UI.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/01_dir_0_UI.PNG"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_dir_90_UI.PNG"/>
 </div>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/documentation/2022_highstakes/props_1.png"/>
+	<img class="col three" src="{{ site.baseurl }}/documentation/2022_highstakes/props_1.PNG"/>
 </div>
 
 <div class="col three caption">
@@ -57,7 +57,7 @@ For the framing, many trees were wildly tilted and scaled, and I placed floating
 </div>
 
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_05.png"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_06.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_05.PNG"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_06.PNG"/>
 </div>
 

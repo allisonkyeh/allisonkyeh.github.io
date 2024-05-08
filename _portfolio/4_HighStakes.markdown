@@ -21,11 +21,9 @@ You can play High Stakes on itch.io <a href="https://brownrisdgames.itch.io/high
 	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/wip_04-30-2022_01.png"/>
 	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/wip_04-30-2022_03.png"/>
 </div>
-<div class="col three caption">
-	The set dressing and look development process.
-</div>
+The set dressing and look development process.
 
-The mockup I made was especially informative to show the team how to approach this 2.5D style. An initial set dressing pass focused on grid readability and framing. For the second pass I focused on making the level become its own little immersive world.
+The mockup I made was informative to show the team how to approach this 2.5D style. An initial set dressing pass focused on grid readability and framing. For the second pass I focused on making the level become its own little immersive world.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screencaptures/gif1AN.gif"/>
@@ -33,7 +31,7 @@ The mockup I made was especially informative to show the team how to approach th
 	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screencaptures/gif3AN.gif"/>
 </div>
 
-Since our puzzle game only had 4 angles, I could compose the environment dressing specifically to these 4 views. My main focuses were on integrating the grid, filling out the background for the feel of an extended world, and creating a framed composition for each perspective.
+Since our puzzle game had only 4 angles, I composed the dressing specifically to these 4 views. My main focuses were integrating the grid, filling out the background for the feel of an extended world, and creating a framed composition for each perspective.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/01_01.PNG"/>
@@ -52,9 +50,7 @@ For the framing I placed floating bushes and tilted trees to create a vignette e
 	<img class="col three" src="{{ site.baseurl }}/documentation/2022_highstakes/props_1.PNG"/>
 </div>
 
-<div class="col three caption">
-	Some of the assets I modeled and textured to fit the style.
-</div>
+Some of the assets I modeled and textured to fit the style.
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/2022_highstakes/screenshots_env/02_05.PNG"/>

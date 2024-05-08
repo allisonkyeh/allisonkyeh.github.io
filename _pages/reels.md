@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Reel
+title: Reels
 description: a project with a background image
 img: /img/2.jpg
-permalink: /reel/
+permalink: /reels/
 ---
 
 {% include video id="727220054" provider="vimeo" %}

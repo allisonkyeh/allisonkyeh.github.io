@@ -32,15 +32,14 @@ The rig has IK/FK arms, and a joint-based face rig. The toon shader was created 
 	<img class="col one" src="{{ site.baseurl }}/documentation/2021_baz/splash_coverHalf.png" alt=""/>
 	<img class="col one" src="{{ site.baseurl }}/documentation/2021_baz/splash_bazHalf.png" alt=""/>
 </div>
-<div class="col three caption">
+
 Character splash art for the pitch deck.
-</div>
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/props-bugs.png" alt=""/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/colorscript.png" alt=""/>
 </div>
-<div class="col three caption">
+
 World building concept art and color script.
-</div>
+
 

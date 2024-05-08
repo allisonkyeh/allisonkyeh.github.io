@@ -23,9 +23,8 @@ A solo, semester-long project using Unity, completed in 2020.
 	<img class="col one" src="{{ site.baseurl }}/documentation/2020_thunderstorm/glowcape_addition.png"/>
 </div>
 
-<div class="col three caption">
-	Concept art and progress screenshots for look development and color customization tests.
-</div>
+Concept art and progress screenshots for look development and color customization tests.
 
 <br><br><br>
+
 Title is a play on Fire Emblem's Path of Radiance.

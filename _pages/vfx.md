@@ -4,7 +4,7 @@ title: VFX
 permalink: /vfx/
 ---
 
-<!-- {% include video id="727220054" provider="vimeo" %} -->
+{% include video id="945545732" provider="vimeo" %}
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/boilingbeam_conceptfull.png"/>
@@ -27,7 +27,8 @@ Original ink slash concept art, and a new concept where I wanted to emphasize fl
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2024_vfxa/casestudy_lightningzap_shader.gif"/>
 </div>
-Procedural lightning concept and shader. <br>This shader uses UV masking, UV distortion, and vertex displacement with custom data to create unique lightning bolts for each particle.<br>
+<!-- ADD LIGHTING GIF -->
+Procedural lightning concept and shader. <br>This shader uses UV masking, UV distortion, and vertex displacement with custom vertex data to create unique lightning bolts for each particle.<br>
 Inspired by studying the lightning effects in Breath of the Wild.
 
 <br>

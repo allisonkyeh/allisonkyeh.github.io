@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stranger Things VR
-description:
+permalink: /stvr
 img: /documentation/2024_stvr/stvr_thumbnail.jpeg
 img_hover: /documentation/2024_stvr/stvr_elpush.gif
 ---

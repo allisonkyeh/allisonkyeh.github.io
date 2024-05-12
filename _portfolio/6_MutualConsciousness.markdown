@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mutual Consciousness
-description:
+permalink: /mutualconsciousness
 img: /documentation/2022_dp/dp-white1.gif
 img_hover: /documentation/2022_dp/dp-title.gif
 ---

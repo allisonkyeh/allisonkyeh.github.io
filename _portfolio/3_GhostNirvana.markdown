@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ghost Nirvana
-description:
+permalink: /ghostnirvana
 img: /documentation/2023_ghostnirvana/v2/ShortClipsGifs/reload.gif
 img_hover: /documentation/2023_ghostnirvana/v2/ShortClipsGifs/title_button_loop.gif
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bebop Baton
-description:
+permalink: /bebopbaton
 img: /documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/attackcombo3.gif
 img_hover: /documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/title_loop.gif
 ---

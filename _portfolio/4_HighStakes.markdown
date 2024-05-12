@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High Stakes
-description:
+permalink: /highstakes
 img: /documentation/2022_highstakes/screencaptures/gif2AN_small.gif
 img_hover: /documentation/2022_highstakes/titleHighStakes.jpg
 ---

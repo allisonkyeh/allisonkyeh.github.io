@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Path of Raindiance
-description:
+permalink: /pathofraindiance
 img: documentation/2020_thunderstorm/gameplaymontage_small.gif
 img_hover: documentation/2020_thunderstorm/titlePoR.jpg
 ---

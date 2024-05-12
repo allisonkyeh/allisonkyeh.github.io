@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VR Palliative Care
-description:
+permalink: /vrpalliativecare
 img: documentation/2022_vr_palliative/butterGif2_small.gif
 img_hover: documentation/2022_vr_palliative/titleButterfly.jpg
 ---

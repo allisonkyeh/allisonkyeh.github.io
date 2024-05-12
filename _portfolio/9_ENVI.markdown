@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENVI
-description:
+permalink: /envi
 img: documentation/2020_envi/envi_shortgameplay.gif
 img_hover: documentation/2020_envi/titleEnvi.jpg
 ---

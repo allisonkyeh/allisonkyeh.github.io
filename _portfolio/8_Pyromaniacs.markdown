@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pyromaniacs
-description:
+permalink: /pyromaniacs
 img: documentation/2021_baz/baz_turnaround_crop.gif
 img_hover: documentation/2021_baz/titlePyro.jpg
 ---

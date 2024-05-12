@@ -13,13 +13,13 @@ permalink: /vfx/
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beamblockin_small.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beam_shader_small.gif"/>
 </div>
-Initial beam block-in and procedural foam shader. This shader uses layers of varied noise and masks to emulate the stylized stripes in the concept.
+Initial beam block-in and procedural foam shader. <br>This shader uses layers of masked noise to emulate the stylized stripes on the beam in the concept art.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/elemental_slash_concept.PNG"/>
 	<img class="col two" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/ink_slash_conceptred.png"/>
 </div>
-Original ink slash concept, and a new concept where I wanted to emphasize flowing brushstrokes and splatters.
+Original ink slash concept art, and a new concept where I wanted to emphasize flowing brushstrokes and splatters.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/lightning_conceptfull.png"/>

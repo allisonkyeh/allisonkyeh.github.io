@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Reels
-description: a project with a background image
-img: /img/2.jpg
 permalink: /reels/
 ---
 

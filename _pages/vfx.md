@@ -33,7 +33,7 @@ Procedural lightning concept and shader. <br>This shader uses UV masking, UV dis
 Inspired by studying the lightning effects in Breath of the Wild.
 
 <br>
-Here are more VFX from completed game jams!
+Here are more VFX from completed game jams, and other miscellaneous projects!
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/VFX/ghostnirvana_vfx_compilation.gif"/>
 </div>
@@ -43,6 +43,16 @@ Compilation of majority of the VFX in <a href="https://allisonkyeh.com/portfolio
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/enemystun_shieldup2.gif"/>
 </div>
 Parry attacks, shields, stuns, and deaths from <a href="https://allisonkyeh.com/portfolio/bebopbaton/">Bebop Baton</a>!
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2020_thunderstorm/gameplaymontage.gif"/>
+</div>
+Environmental vfx from <a href="https://allisonkyeh.com/pathofraindiance">Path of Raindiance</a>.
+
+<div class="img_row">
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/2dfx_smallfx_bubble.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2022_dp/animmarathon-violet.gif"/>
+</div>
 
 
 

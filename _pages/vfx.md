@@ -37,12 +37,12 @@ Here are more VFX from completed game jams, and other miscellaneous projects!
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/VFX/ghostnirvana_vfx_compilation.gif"/>
 </div>
-Compilation of majority of the VFX in <a href="https://allisonkyeh.com/portfolio/ghostNirvana/">Ghost Nirvana</a>! Since this is a bullet heaven game, these effects had to be kept relatively simple in order to keep the gameplay readable. There are salt (cubes and dust), appliance electricity, and ghostly theming to tie everything together.
+Compilation of majority of the VFX in <a href="https://allisonkyeh.com/portfolio/ghostNirvana/">Ghost Nirvana</a>! Since this is a bullet heaven game, these effects had to be kept relatively simple to keep gameplay clear. There are salt (cubes and dust), appliance electricity, and ghostly themes to differentiate sources quickly, and tie everything together to support the story.
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/attackcombo4_enemydeath.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/enemystun_shieldup2.gif"/>
 </div>
-Parry attacks, shields, stuns, and deaths from <a href="https://allisonkyeh.com/portfolio/bebopbaton/">Bebop Baton</a>!
+Parry attacks, shields, stuns, and deaths from <a href="https://allisonkyeh.com/portfolio/bebopbaton/">Bebop Baton</a>.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2020_thunderstorm/gameplaymontage.gif"/>
@@ -50,7 +50,7 @@ Parry attacks, shields, stuns, and deaths from <a href="https://allisonkyeh.com/
 Environmental vfx from <a href="https://allisonkyeh.com/pathofraindiance">Path of Raindiance</a>.
 
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/2dfx_smallfx_bubble.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/2dfx_smallfx_bubble_crop.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2022_dp/animmarathon-violet.gif"/>
 </div>
 

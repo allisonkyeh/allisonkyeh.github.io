@@ -47,7 +47,7 @@ Parry attacks, shields, stuns, and deaths from <a href="https://allisonkyeh.com/
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2020_thunderstorm/gameplaymontage.gif"/>
 </div>
-Environmental vfx from <a href="https://allisonkyeh.com/pathofraindiance">Path of Raindiance</a>.
+Environmental thunderstorm VFX in <a href="https://allisonkyeh.com/pathofraindiance">Path of Raindiance</a>.
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/2dfx_smallfx_bubble_crop.gif"/>

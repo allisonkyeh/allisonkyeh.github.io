@@ -9,7 +9,7 @@ permalink: /vfx/
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/boilingbeam_conceptfull.png"/>
 </div>
-Boiling water beam concept art. I wanted to use a non-blue water palette inspired by lush green hot springs, and focused on the idea of boiling bubbles.
+Boiling water beam concept art. <br>I wanted to use a non-blue water palette inspired by lush green hot springs, and used bubbles throughout to push the boiling aspect.
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beamblockin_small.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beam_shader_small.gif"/>
@@ -29,7 +29,7 @@ Original ink slash concept art, and a new concept where I want to emphasize flow
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/casestudy_lightningzap_secondpass_variation_small.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/casestudy_lightningzap_shader.gif"/>
 </div>
-Procedural lightning concept and shader. This shader uses UV masking, UV distortion, and vertex displacement with custom vertex data to create unique lightning bolts for each particle, including the surrounding secondary bolts.<br>
+Procedural lightning concept and shader. <br>This shader uses UV masking, UV distortion, and vertex displacement with custom vertex data to create unique lightning bolts for each particle, including the surrounding secondary bolts.<br>
 Inspired by studying the lightning effects in Breath of the Wild.
 
 <br>

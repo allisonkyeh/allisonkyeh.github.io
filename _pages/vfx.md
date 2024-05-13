@@ -14,7 +14,7 @@ Boiling water beam concept art. <br>I wanted to use a non-blue water palette ins
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beamblockin_small.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beam_shader_small.gif"/>
 </div>
-Initial beam block-in and procedural foam shader. <br>This shader uses layers of masked noise to emulate the stylized stripes on the beam in the concept art in a more dynamic way.
+Initial beam block-in and procedural foam shader. <br>This shader uses layers of masked noise to emulate the stylized stripes on the beam in the concept art in a more dynamic way. I made 2D flipbooks and dissolve maps to push stylization.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/elemental_slash_concept.PNG"/>

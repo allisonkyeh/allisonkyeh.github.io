@@ -17,8 +17,11 @@ You can play Ghost Nirvana on itch.io <a href="https://thuleanx.itch.io/ghost-ni
 	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/v2/ShortClipsGifs/many_enemies.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/v2/ShortClipsGifs/levelup.gif"/>
 </div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/VFX/ghostnirvana_vfx_compilation.gif"/>
+</div>
 
-The VFX went through a few iterations to ensure gameplay clarity, prevent clutter, and keep the salt and ghost theming. A total of 23 different items were added to the upgrade shop, with varied color and shape language to differentiate them quickly.
+Since this is a bullet heaven, the VFX went through a few iterations to ensure gameplay clarity, prevent noisy clutter, and keep the salt, ghost, and appliance (electricity) theming to support the story. A total of 23 different items were added to the upgrade shop, with varied color and shape language to differentiate them quickly.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/conceptMiyu_compilation.png"/>

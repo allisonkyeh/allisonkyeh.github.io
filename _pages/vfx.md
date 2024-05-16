@@ -33,16 +33,11 @@ Procedural lightning concept and shader. <br>This shader uses UV masking, UV dis
 Inspired by studying the lightning effects in Breath of the Wild.
 
 <br>
-Here are more VFX from completed game jams, and other miscellaneous projects!
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/VFX/ghostnirvana_vfx_compilation.gif"/>
-</div>
-Compilation of majority of the VFX in <a href="https://allisonkyeh.com/portfolio/ghostNirvana/">Ghost Nirvana</a>! Since this is a bullet heaven game, these effects had to be kept relatively simple to keep gameplay clear. There are salt (cubes and dust), appliance electricity, and ghostly themes to differentiate sources quickly, and tie everything together to support the story.
-<div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/attackcombo4_enemydeath.gif"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/enemystun_shieldup2.gif"/>
-</div>
-Parry attacks, shields, stuns, and deaths from <a href="https://allisonkyeh.com/portfolio/bebopbaton/">Bebop Baton</a>.
+More about the game jams shown in the reel can be found here!
+
+<a href="https://allisonkyeh.com/ghostnirvana">Ghost Nirvana</a>, a ghost and salt themed bullet heaven game!
+<br>
+<a href="https://allisonkyeh.com/bebopbaton">Bebop Baton</a>, a jazz rhythm game!
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2020_thunderstorm/gameplaymontage.gif"/>

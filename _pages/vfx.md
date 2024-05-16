@@ -11,10 +11,10 @@ permalink: /vfx/
 </div>
 Boiling water beam concept art. <br>I wanted to use a non-blue water palette inspired by lush green hot springs, and used bubbles throughout to push the boiling aspect.
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beamblockin_small.gif"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beam_shader_small.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_vfxa/prodlvl_beam_steamgusts.gif"/>
 </div>
-Initial beam block-in and procedural foam shader. <br>This shader uses layers of masked noise to emulate the stylized stripes on the beam in the concept art in a more dynamic way. I made 2D animated flipbooks and dissolve maps to push stylization.
+Procedural foam shader and one of two steam flipbooks. <br>This shader uses layers of masked noise to emulate the stylized stripes on the beam in the concept art in a more dynamic way. I hand-animated flipbooks and dissolve maps to push stylization.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/elemental_slash_concept.PNG"/>

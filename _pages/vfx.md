@@ -33,11 +33,12 @@ Procedural lightning concept and shader. <br>This shader uses UV masking, UV dis
 Inspired by studying the lightning effects in Breath of the Wild.
 
 <br>
-More about the game jams shown in the reel can be found here!
-
+More about the game jams shown in the reel can be found here:
+<br>
 <a href="https://allisonkyeh.com/ghostnirvana">Ghost Nirvana</a>, a ghost and salt themed bullet heaven game!
 <br>
 <a href="https://allisonkyeh.com/bebopbaton">Bebop Baton</a>, a jazz rhythm game!
+<br><br>
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2020_thunderstorm/gameplaymontage.gif"/>

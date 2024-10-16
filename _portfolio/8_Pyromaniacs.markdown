@@ -36,10 +36,15 @@ The rig has IK/FK arms, and a joint-based face rig. The toon shader was created 
 Character splash art for the pitch deck.
 
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/props-bugs.png" alt=""/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2021_baz/colorscript.png" alt=""/>
+	<img class="col three" src="{{ site.baseurl }}/documentation/2021_baz/props-bugs.png" alt=""/>
 </div>
 
-World building concept art and color script.
+World building concept art.
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2021_baz/colorscript.png" alt=""/>
+</div>
+
+Color script.
 
 

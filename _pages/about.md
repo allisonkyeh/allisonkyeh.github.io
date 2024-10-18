@@ -10,7 +10,7 @@ permalink: /about/
 
 Hello! My name is Allison Yeh. I am currently a technical artist at <a href="https://tenderclaws.com/">Tender Claws</a>, with the ability to jump from art to code and everything in between.
 
-I love crafting immersive, interactive experiences, finding new ways to tell stories that'll tug at your heartstrings and play games with your brain. I have tons of fun experimenting with stylized graphics, shaders, VFX, and polishing every pixel in engine!
+I love crafting immersive, interactive experiences, finding new ways to tell stories that'll tug at your heartstrings and play games with your brain. I have tons of fun experimenting with stylized graphics, shaders, VFX, lighting, and polishing every pixel in engine!
 
 Feel free to reach out to me at the email below!
 

@@ -35,6 +35,25 @@ Using fog tech, I could match the show's blue streaks of light seeping through t
 
 Before and after of Hopper's cabin in Chapter 7, where you play as the giant spider monster attacking the human characters trapped inside. This moment references a dark moonlit forest scene in the show, with warm lights spilling out from inside indicating signs of life and targets to attack.
 
+<br>
+
+<div class="img_row">
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/alicebedroom_flickerlights_1.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/creelhouse_chandelier_spot.gif"/>
+</div>
+
+I created dynamic lights in C# that flicker based on proximity to the player's hands, like how lights react to Vecna in the show. The flicker consists of the emissive material's color and intensity in addition to the light's color and range. I included flickering for bloom as well, before post processing was scrapped for performance reasons. The dynamic lights component also had a smoother, slower pulsing setting and a more intense setting that shattered the bulb, though these were not featured in the game.
+
+The chandelier has the dynamic light script as well as a constraint setup that allowed the player to grab and swing the chandelier.
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/drivein_fightstart.gif"/>
+</div>
+
+I scripted this pre-fight sequence in Chapter 9. When the player gets close to the truck, the shadow play starts and the demodog takes out the projector light- then the lighting, moon, and environment fog transitions to a red atmosphere to signal the start of a fight.
+
+<br>
+
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/MR_portal_arcadeA.png"/>
 	<img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/MR_portal_labA.png"/>
@@ -71,12 +90,3 @@ These MR portals also needed a blue corrupted version where Vecna's vines take o
 	<img class="col three" src="{{ site.baseurl }}/documentation/2020_college/ayeh2_shader_final.png"/>
 </div>
 -->
-
-<div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/alicebedroom_flickerlights_1.gif"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/creelhouse_chandelier_spot.gif"/>
-</div>
-
-I created dynamic lights in C# that flicker based on proximity to the player's hands, like how lights react to Vecna in the show. The flicker consists of the emissive material's color and intensity in addition to the light's color and range. I included flickering for bloom as well, before post processing was scrapped for performance reasons. The dynamic lights component also had a smoother, slower pulsing setting and a more intense setting that shattered the bulb, though these were not featured in the game.
-
-The chandelier has the dynamic light script as well as a constraint setup that allowed the player to grab and swing the chandelier.

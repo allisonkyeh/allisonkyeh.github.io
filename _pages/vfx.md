@@ -17,12 +17,6 @@ Boiling water beam concept art. <br>I wanted to use a non-blue water palette ins
 Procedural foam shader and one of two steam flipbooks. <br>This shader uses layers of masked noise to emulate the stylized stripes on the beam in the concept art in a more dynamic way. I hand-animated flipbooks and dissolve maps to push stylization.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/elemental_slash_concept.PNG"/>
-	<img class="col two" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/ink_slash_conceptred.png"/>
-</div>
-Original ink slash concept art, and a new concept where I want to emphasize flowing brushstrokes and splatters.
-
-<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/lightning_conceptfull.png"/>
 </div>
 <div class="img_row">
@@ -31,6 +25,12 @@ Original ink slash concept art, and a new concept where I want to emphasize flow
 </div>
 Procedural lightning concept and shader. <br>This shader uses UV masking, UV distortion, and vertex displacement with custom vertex data to create unique lightning bolts for each particle, including the surrounding secondary bolts.<br>
 Inspired by studying the lightning effects in Breath of the Wild.
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/elemental_slash_concept.PNG"/>
+	<img class="col two" src="{{ site.baseurl }}/documentation/2024_vfxa/concepts/ink_slash_conceptred.png"/>
+</div>
+Original ink slash concept art, and a new concept where I want to emphasize flowing brushstrokes and splatters.
 
 <br>
 More about the game jams shown in the reel can be found here:

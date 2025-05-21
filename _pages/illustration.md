@@ -22,7 +22,7 @@ Miscellaneous illustrations, sketches, and concept art for game jams and persona
 </div>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/documentation/misc_illus/star.PNG"/>
+	<img class="col three" src="{{ site.baseurl }}/documentation/misc_illus/star.png"/>
 </div>
 
 <div class="img_row">

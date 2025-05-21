@@ -1,6 +1,6 @@
 ---
 layout: post
-title: illustration
+title: Illustration
 permalink: /illustration/
 ---
 

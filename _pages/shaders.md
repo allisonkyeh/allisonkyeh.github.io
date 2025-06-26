@@ -11,7 +11,7 @@ permalink: /shaders/
 </div>
 
 My toon shaders thus far! I place an emphasis on stylized toon shaders that feel simplified but slightly soft.
-<br>Starting from the left, this was my first deep dive into shaders which got me interested in stylized game art. It uses layers of glows apart from bloom to soften the hard cuts of toon shading.
+<br>Starting from the left, this was my first deep dive into shaders which got me interested in stylized game art. It uses layers of glows apart from bloom to soften the hard cuts of toon shading, with an outline post processing effect using sobel edge detection.
 <br>The center shader is unlit, and focuses more on textured fresnels that match the ocean waves style of the game.
 <br>The last shader is my most recent lit toon shader that improves greatly upon the left one, adding rim lighting and glows to soften as well. I also used multiple techniques to support the shader such as tweaking vertex normals and the texture itself to create a soft appearance.
 

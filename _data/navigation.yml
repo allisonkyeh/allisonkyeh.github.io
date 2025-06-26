@@ -3,11 +3,13 @@
   url: /
 # - title: "Reels"
 #   url: /reels
-- title: "Lighting"
-  url: /lighting
-- title: "Illustration"
-  url: /illustration
+# - title: "Lighting"
+#   url: /lighting
+- title: "Shaders"
+  url: /shaders
 - title: "VFX"
   url: /vfx
+- title: "Illustration"
+  url: /illustration
 - title: "About"
   url: /about

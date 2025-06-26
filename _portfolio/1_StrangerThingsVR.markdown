@@ -10,11 +10,15 @@ img_hover: /documentation/2024_stvr/stvr_elpush.gif
 
 <br>
 As a technical artist at <a href="https://tenderclaws.com">Tender Claws</a>, I created, implemented, and optimized a wide variety of art in engine.<br>
-This includes VFX, lighting, shaders, procedural creature animations, set dressing, environments and interactive props, <br>and implementing story sequences.
+This includes VFX, dynamic lighting, stylized shaders, procedural creature animations, set dressing, environments and interactive props, <br>and implementing story sequences.
 
 Released February 2024.
 
-See my lighting work on this project <a href="https://allisonkyeh.com/lighting/">here.</a>
+<div class="img_row">
+    <img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/alicebedroom_flickerlights_1.gif"/>
+    <img class="col half" src="{{ site.baseurl }}/documentation/2024_stvr/lighting/creelhouse_chandelier_spot.gif"/>
+</div>
+See my dynamic lighting work on this project <a href="https://allisonkyeh.com/stvrlighting/">here.</a>
 
 {% include video id="1068981717" provider="vimeo" %}
 

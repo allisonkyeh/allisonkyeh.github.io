@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lighting
-permalink: /lighting/
+title: STVR Lighting
+permalink: /stvrlighting/
 ---
 
 My lighting work for Stranger Things VR encompassed scenes throughout all 9 chapters and a mixed reality chapter.<br>

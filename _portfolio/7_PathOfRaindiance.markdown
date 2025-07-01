@@ -14,17 +14,15 @@ A solo, semester-long project using Unity, completed in 2020.
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/concept_env.png">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/concept_sketches.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/lightning.png"/>
+	<!-- <img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/concept_sketches.png"/> -->
 </div>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/documentation/2020_thunderstorm/lightning.png"/>
-	<img class="col one" src="{{ site.baseurl }}/documentation/2020_thunderstorm/hueshift180.png"/>
-	<img class="col one" src="{{ site.baseurl }}/documentation/2020_thunderstorm/glowcape_addition.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/hueshift180.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2020_thunderstorm/glowcape_addition.png"/>
 </div>
 
 Concept art and progress screenshots for look development and color customization tests.
-
-<br><br><br>
-
-Title is a play on Fire Emblem's Path of Radiance.
+<br><br>
+Title is a play on Fire Emblem's Path of Radiance!

@@ -35,8 +35,8 @@ Since this is a bullet heaven, the VFX went through a few iterations to ensure g
 Miyu concepts, adapted from 蒼月＠かのん's original design to fit the game's style- and model, rig, and some animations. Secondary elements like the ears and glowsticks were dynamically animated in engine.
 
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/conceptAppliances.png"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/appliancesplayblast.gif"/>
+	<img class="col one" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/conceptAppliances_vert.png"/>
+	<img class="col two" src="{{ site.baseurl }}/documentation/2023_ghostnirvana/appliancesplayblast.gif"/>
 </div>
 
 Appliance concepts, models, and animations. My favorites are the stove and fan!

@@ -9,7 +9,7 @@ img_hover: /documentation/2023_ghostnirvana/v2/ShortClipsGifs/title_button_loop.
 
 A 3D bullet heaven game where you play as a part-timer tracking down missing appliances that have been possessed by ghosts, and exorcising them with your salt gun!
 
-Developed with <a href="https://thuleanx.github.io/">Thuleanx</a> for A Game By Its Cover 2023, a 6 week game jam. The game was inspired by <a href="https://famicase.com/23/softs/024.html">this famicase design</a> created by 蒼月＠かのん. I created all the art, including character models, rigs, animations, UI, environment, and VFX.
+Developed with <a href="https://thuleanx.github.io/">Thuleanx</a> for A Game By Its Cover 2023, a 6 week game jam. The game was inspired by <a href="https://famicase.com/23/softs/024.html">this famicase design</a> created by 蒼月＠かのん. I created all the art, including models, rigs, animations, UI, environment, shaders and VFX.
 
 You can play Ghost Nirvana on itch.io <a href="https://thuleanx.itch.io/ghost-nirvana">here!</a>
 

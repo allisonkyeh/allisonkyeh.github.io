@@ -8,7 +8,7 @@ img_hover: /documentation/2024_shinyshores/v2_captures/title_loop.gif
 
 A summery beach game where you collect sparkly treasures while avoiding crashing waves!
 
-Developed in a week with <a href="https://thuleanx.github.io/">Thuleanx</a> and <a href="https://www.willbertiz.com/">Whullum</a> for Brackeys Game Jam 2024.2, and rated 15th out of 1500+ entries. <br>I created all the art, including models, rigs, animations, environment, UI, shaders, and VFX.
+Developed in a week with <a href="https://thuleanx.github.io/">Thuleanx</a> and <a href="https://www.willbertiz.com/">Whullum</a> for Brackeys Game Jam 2024.2, and rated 15th out of 1500+ entries. <br>I created all the art, including models, rigs, animations, environment, UI, shaders and VFX.
 
 You can play Shiny Shores on itch.io <a href="https://ayucinna.itch.io/shiny-shores">here!</a>
 

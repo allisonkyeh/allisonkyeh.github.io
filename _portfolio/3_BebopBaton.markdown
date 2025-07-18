@@ -8,7 +8,7 @@ img_hover: /documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/title_loop.
 
 A jazz rhythm game where the conductor has a funky showdown against the snazzy, snappy shadowmen!
 
-Developed in a week with <a href="https://thuleanx.github.io/">Thuleanx</a> for Rhythm Jam 2024, and rated 1st out of 70+ entries. I created all the art, including character models, rigs, animations, UI, environment, and VFX.
+Developed in a week with <a href="https://thuleanx.github.io/">Thuleanx</a> for Rhythm Jam 2024, and rated 1st out of 70+ entries. I created all the art, including character models, rigs, animations, UI, environment, shaders and VFX.
 
 You can play Bebop Baton on itch.io <a href="https://ayucinna.itch.io/bebop-baton">here!</a>
 

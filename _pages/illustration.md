@@ -34,15 +34,15 @@ Miscellaneous illustrations, sketches, and concept art for game jams and persona
 	<img class="col three" src="{{ site.baseurl }}/documentation/misc_illus/star.png"/>
 </div>
 
-<div class="img_row">
+<!-- <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/documentation/misc_illus/portalknight.png"/>
-</div>
+</div> -->
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/misc_illus/barbie.png" /> 
 	<img class="col half" src="{{ site.baseurl }}/documentation/misc_illus/kilo.png" /> 
 </div>
-
+<!-- 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/documentation/misc_illus/hs_lighttouch.jpg" style="float:none"/>
-</div>
+</div> -->

@@ -8,7 +8,7 @@ permalink: /about/
 
 <br>
 
-Hello! My name is Allison Yeh. I am currently a lead artist and technical artist at Fractal Labs, with the ability to jump from art to code and everything in between.
+Hello! My name is Allison Yeh. I am currently a rendering technical artist at Riot Games, with the ability to jump from art to code and everything in between.
 <!--<a href="https://tenderclaws.com/">Tender Claws</a>-->
 
 I love crafting immersive, interactive experiences, finding new ways to tell stories that'll tug at your heartstrings and play games with your brain. I have tons of fun experimenting with stylized graphics, shaders, VFX, lighting, and polishing every pixel in engine!

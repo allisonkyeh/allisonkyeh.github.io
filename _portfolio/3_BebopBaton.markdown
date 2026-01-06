@@ -2,8 +2,8 @@
 layout: post
 title: Bebop Baton
 permalink: /bebopbaton
-img: /documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/attackcombo3.gif
-img_hover: /documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/title_loop.gif
+img: /documentation/2024_bebopbaton/v2_captures/attackcombo3.gif
+img_hover: /documentation/2024_bebopbaton/v2_captures/title_loop.gif
 ---
 
 A jazz rhythm game where the conductor has a funky showdown against the snazzy, snappy shadowmen!
@@ -17,14 +17,14 @@ You can play Bebop Baton on itch.io <a href="https://ayucinna.itch.io/bebop-bato
 </div> -->
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/attackcombo4_enemydeath.gif"/>
+	<img class="col three" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/attackcombo4_enemydeath.gif"/>
 </div>
 
 Parry the shadowmen to break their shield and stun them, then attack to defeat them!
 
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/enemyattack2.gif"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/enemystun_shieldup2.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/enemyattack2.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/enemystun_shieldup2.gif"/>
 </div>
 
 <div class="img_row">
@@ -39,8 +39,8 @@ Concepts/turnarounds and final character models in Maya.
 </div>
 
 <div class="img_row">
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/ShortClipsGifs/title_press.gif"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_update/title_after_click.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/title_press.gif"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/2024_bebopbaton/v2_captures/title_after_click.png"/>
 </div>
 
 Title screen and stage environment.

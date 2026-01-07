@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one left profile_pic" src="/images/2892ad7e-c94a-4109-8038-565dae3a55eb_rw_12007fa7.png">
+<img class="col one left profile_pic" src="/images/pfp.png">
 
 <br>
 

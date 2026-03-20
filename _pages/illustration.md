@@ -12,13 +12,18 @@ Miscellaneous illustrations, sketches, and concept art for game jams and persona
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/documentation/misc_illus/2024-2.png"/>
-	<img class="col half" src="{{ site.baseurl }}/documentation/misc_illus/descansogardens.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/misc_illus/2025_props.png"/>
 </div>
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/documentation/misc_illus/2024-9-18.png"/>
 	<img class="col one" src="{{ site.baseurl }}/documentation/misc_illus/2024-1.JPG"/>
 	<img class="col one" src="{{ site.baseurl }}/documentation/misc_illus/doros.JPG"/>
+</div>
+
+<div class="img_row">
+	<img class="col half" src="{{ site.baseurl }}/documentation/misc_illus/descansogardens.png"/>
+	<img class="col half" src="{{ site.baseurl }}/documentation/misc_illus/2025_exterior.png"/>
 </div>
 
 <div class="img_row">

@@ -35,7 +35,7 @@ I made all components of this stylized waterfall that uses a couple shaders with
 	<img class="col two" src="{{ site.baseurl }}/documentation/2024_shinyshores/waveshader.gif"/>
 </div>
 
-A couple shaders from <a href="https://allisonkyeh.com/shinyshores/">Shiny Shores!</a>
+A couple shaders from <a href="https://allisonkyeh.com/shinyshores">Shiny Shores!</a>
 <br>For this reflective seaglass shader, I wanted the highlight to be visible at all angles so it depends on view direction instead of light.
 <br>This wave shader incorporates UV masks and multiple layers of noise and voronoi to make the foam and edge more rough and varied.
 <br> I added a color gradient to add depth to the teal, blended between unposterized and posterized looks for a softened stylization, and layered voronoi at the wave edge to create rough edges emulating the brush texture in my concept art. 
@@ -54,5 +54,5 @@ This dissolving shader was done early on in my game dev journey to experiment wi
 </div>
 
 My work with Tender Claws included building upon and maintaining HLSL shader code.
-<br>I modified our stylized toon shader to create the area of effect for this cleanse attack in <a href="https://allisonkyeh.com/stvr/">Stranger Things VR</a>, as well as other toon lighting adjustments.
-<br>In <a href="https://allisonkyeh.com/facejumping/">Face Jumping</a>, I added this effect that pulls geometry in the scene to create a bouncy fisheye transition.
+<br>I modified our stylized toon shader to create the area of effect for this cleanse attack in <a href="https://allisonkyeh.com/stvr">Stranger Things VR</a>, as well as other toon lighting adjustments.
+<br>In <a href="https://allisonkyeh.com/facejumping">Face Jumping</a>, I added this effect that pulls geometry in the scene to create a bouncy fisheye transition.
